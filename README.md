@@ -1,5 +1,5 @@
 # CMP314-Computer-Networking
-CMP 314 Computer Networking
+CMP 314 Computer Networking Year 3 Term 1 Module 
 
 A situation has arisen at ACME Inc. whereby their network administrator has left in
 acrimonious circumstances. Upon review ACME Inc. discovered there is no documentation
